@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Dog</title>
+  </head>
+  <body>
+    <img src="dog.jpg" alt="My Dog" id="dog-image">
+  </body>
+</html>
