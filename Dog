@@ -7,7 +7,8 @@
     <img src="dog.jpg" alt="My Dog" id="dog-image">
   </body>
 </html>
-#dog-image {
+  
+ #dog-image {
   width: 500px; /* adjust width as needed */
   height: auto; /* maintain aspect ratio */
 }
